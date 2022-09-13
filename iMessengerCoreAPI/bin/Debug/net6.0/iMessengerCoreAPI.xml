@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>iMessengerCoreAPI</name>
+    </assembly>
+    <members>
+        <member name="M:iMessengerCoreAPI.Controllers.DialogsController.Post(iMessengerCoreAPI.Models.ClientsModel)">
+            <summary>
+            Возвращает идентификатор диалога, в котором есть переданные клиенты.
+            </summary>
+        </member>
+        <member name="P:iMessengerCoreAPI.Models.ClientsModel.ClientGuids">
+            <summary>Идентификаторы клиентов</summary>
+        </member>
+        <member name="P:iMessengerCoreAPI.Models.DialogsModel.Data">
+            <summary>Идентификатор диалога, в который входят идентификаторы клиентов</summary>
+        </member>
+    </members>
+</doc>
